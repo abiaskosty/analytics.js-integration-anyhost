@@ -1,5 +1,6 @@
 {
   "name": "analytics.js-integration-anyhost",
+  "version": "1.0.7",
   "description": "Integration for analytics.js - Allow to send analytics data to any host.",
   "author": "Segment <friends@segment.com>",
   "license": "MIT",
